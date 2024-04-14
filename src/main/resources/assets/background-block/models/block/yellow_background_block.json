@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "background-block:block/yellow_background_block"
+  }
+}

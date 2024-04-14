@@ -1,0 +1,17 @@
+{
+  "block.background-block.red_background_block": "Red Background Block",
+  "block.background-block.blue_background_block": "Blue Background Block",
+  "block.background-block.green_background_block": "Green Background Block",
+  "block.background-block.yellow_background_block": "Yellow Background Block",
+  "block.background-block.white_background_block": "White Background Block",
+  "block.background-block.black_background_block": "Black Background Block",
+
+  "block.background-block.red_background_block_brightness_15": "Red Background Block (Brightness 15)",
+  "block.background-block.blue_background_block_brightness_15": "Blue Background Block (Brightness 15)",
+  "block.background-block.green_background_block_brightness_15": "Green Background Block (Brightness 15)",
+  "block.background-block.yellow_background_block_brightness_15": "Yellow Background Block (Brightness 15)",
+  "block.background-block.white_background_block_brightness_15": "White Background Block (Brightness 15)",
+  "block.background-block.black_background_block_brightness_15": "Black Background Block (Brightness 15)",
+
+  "itemGroup.background-block.bgb": "Background Block"
+}

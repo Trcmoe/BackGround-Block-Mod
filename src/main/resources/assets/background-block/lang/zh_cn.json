@@ -1,0 +1,17 @@
+{
+  "block.background-block.red_background_block": "红色背景方块",
+  "block.background-block.blue_background_block": "蓝色背景方块",
+  "block.background-block.green_background_block": "绿色背景方块",
+  "block.background-block.yellow_background_block": "黄色背景方块",
+  "block.background-block.white_background_block": "白色背景方块",
+  "block.background-block.black_background_block": "黑色背景方块",
+
+  "block.background-block.red_background_block_brightness_15": "红色背景方块 （亮度15）",
+  "block.background-block.blue_background_block_brightness_15": "蓝色背景方块 （亮度15）",
+  "block.background-block.green_background_block_brightness_15": "绿色背景方块 （亮度15）",
+  "block.background-block.yellow_background_block_brightness_15": "黄色背景方块 （亮度15）",
+  "block.background-block.white_background_block_brightness_15": "白色背景方块 （亮度15）",
+  "block.background-block.black_background_block_brightness_15": "黑色背景方块 （亮度15）",
+
+  "itemGroup.background-block.bgb": "背景方块"
+}

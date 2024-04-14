@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "background-block:block/blue_background_block"
+  }
+}

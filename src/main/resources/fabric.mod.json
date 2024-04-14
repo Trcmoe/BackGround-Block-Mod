@@ -9,10 +9,11 @@
 		"Miro"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/user/Trcmoe",
+		"sources": "https://github.com/Trcmoe/Background-Block-Mod",
+		"issues": "https://github.com/Trcmoe/Background-Block-Mod/issues"
 	},
-	"license": "CC0-1.0",
+	"license": "GNU Lesser General Public License v3",
 	"icon": "assets/background-block/icon.png",
 	"environment": "*",
 	"entrypoints": {
